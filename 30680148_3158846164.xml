@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Session version="8.0" id="30680148_3158846164" client="FodHelper(LanguageFeaturesOnDemand)" options="1073741872" currentPhase="1" lastSuccessfulState="Complete" pendingFollower="false" retry="false" correlationVector="uAZmMEVjF0yjTacv.3" Queued="2018/07/25/16:19:06" Started="2018/07/25/16:19:06" Complete="2018/07/25/16:20:27" status="0x0">
+    <Tasks>
+        <Phase seq="1">
+            <capability id="Language.Speech~~~en-CA~0.0.1.0" displayName="English (CA) speech recognition" description="Cortana and speech recognition for English (CA)" targetState="Installed" options="12"/>
+        </Phase>
+    </Tasks>
+    <Actions>
+        <Phase seq="1" rebootRequired="false" Resolved="2018/07/25/16:20:21" Staged="2018/07/25/16:20:22" Installed="2018/07/25/16:20:26">
+            <Resolve package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="72abc311e990e72f65bdbb0decb67b32"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="ec12c05244c98f8d29c2bd8a5658f3db"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="43a299b0d2c88bfbf173677cdd760176"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-avcore-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="fb27e1fa6dfda8d70ef9ff2bdba73e3b"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-onecoreuap-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="504848b50d832fc46695a085ec74c210"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~wow64~~10.0.17134.1" update="20abb3c42984a4c896e290b16cbf8fb6"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="59c426e134643c3e280392745f50aa7d"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="4200cecd9d756dde8b751b05e1069a19"/>
+            <Resolve package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~wow64~~10.0.17134.1" update="0d9bdb4c40462ca1adc7079981ce6c9f"/>
+            <Stage package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-avcore-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="fb27e1fa6dfda8d70ef9ff2bdba73e3b"/>
+            <Stage package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-onecoreuap-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="504848b50d832fc46695a085ec74c210"/>
+            <Stage package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~wow64~~10.0.17134.1" update="20abb3c42984a4c896e290b16cbf8fb6"/>
+            <Stage package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="59c426e134643c3e280392745f50aa7d"/>
+            <Stage package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="4200cecd9d756dde8b751b05e1069a19"/>
+            <Stage package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~wow64~~10.0.17134.1" update="0d9bdb4c40462ca1adc7079981ce6c9f"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="72abc311e990e72f65bdbb0decb67b32"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="ec12c05244c98f8d29c2bd8a5658f3db"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="43a299b0d2c88bfbf173677cdd760176"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-avcore-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="fb27e1fa6dfda8d70ef9ff2bdba73e3b"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-onecoreuap-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="504848b50d832fc46695a085ec74c210"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-Speech-en-ca-Package~31bf3856ad364e35~wow64~~10.0.17134.1" update="20abb3c42984a4c896e290b16cbf8fb6"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="59c426e134643c3e280392745f50aa7d"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~amd64~~10.0.17134.1" update="4200cecd9d756dde8b751b05e1069a19"/>
+            <Install package="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-ca-Package~31bf3856ad364e35~wow64~~10.0.17134.1" update="0d9bdb4c40462ca1adc7079981ce6c9f"/>
+        </Phase>
+    </Actions>
+</Session>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Session version="8.0" id="30680217_2343605866">
+    <Tasks>
+        <Phase exclusive="ServicingStack">
+            <package id="Package_for_KB4343669~31bf3856ad364e35~amd64~~17134.165.1.2" targetState="Installed" options="17"/>
+        </Phase>
+        <Phase>
+            <package id="Package_for_RollupFix~31bf3856ad364e35~amd64~~17134.165.1.4" targetState="Installed" options="17"/>
+        </Phase>
+    </Tasks>
+</Session>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Session version="8.0" id="30680148_3158846163" client="FodHelper(LanguageFeaturesOnDemand)" options="1073741872" currentPhase="1" lastSuccessfulState="Queued" pendingFollower="false" retry="false" correlationVector="VI6sLj5cD0+Skvrz.1">
+    <Tasks>
+        <Phase seq="1">
+            <capability id="Language.Speech~~~en-CA~0.0.1.0" displayName="English (CA) speech recognition" description="Cortana and speech recognition for English (CA)" targetState="Installed" options="12"/>
+        </Phase>
+    </Tasks>
+    <Actions>
+        <Phase seq="1" rebootRequired="false">
+        </Phase>
+    </Actions>
+</Session>

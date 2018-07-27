@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ActionList xmlns="urn:schemas-microsoft-com:os-update-actionlist" SessionId="2018-07-25T21:22:22" Revision="1" SessionData="DesktopServicing" BuildInfo="rs4_release.17134.1.180410-1804" Operation="DesktopServicing">
+    <Downloads>
+        <Package Id="Package_for_KB4343669" Reason="ServicingStackUpdate" PayloadType="Express" FeatureId="ServicingStackUpdate_KB4343669" PackagePath="Package_for_KB4343669~~amd64~~17134.165.1.2" ExpressPackagePath="metadata\Windows10.0-KB4343669-x64-EXPRESS">
+            <Payload Hash="TdGoRzOycp71nx9cs1ArpBnMkrfmlntyoFnqdke8LME=" DownloadSize="281024" SourceName="Windows10.0-KB4343669-x64-EXPRESS.cab" PsfHash="zF66ngjUpr47hjlQZHENC8S9HrtVhqb6PvKsN++Hn9g=" PsfSourceName="Windows10.0-KB4343669-x64.psf" PsfTargetName="Windows10.0-KB4343669-x64_psf.rng" CiXPath="Windows10.0-KB4343669-x64-EXPRESS\Windows10.0-KB4343669-x64.psf.cix.xml"/>
+        </Package>
+        <Package Id="Package_for_RollupFix" Reason="CumulativeUpdate" PayloadType="Express" FeatureId="CumulativeUpdate_KB4338819" PackagePath="Package_for_RollupFix~~amd64~~17134.165.1.4" ExpressPackagePath="metadata\Windows10.0-KB4338819-x64-EXPRESS">
+            <Payload Hash="Ka3BejfcAj2RqtZyvWlV4ODC84Yrir96EeLIupzAR30=" DownloadSize="17520864" SourceName="Windows10.0-KB4338819-x64-EXPRESS.cab" PsfHash="Q7kPTlp/4nftf77B/aE5sHA7uU6ZCpxDH52c/+6DJZY=" PsfSourceName="Windows10.0-KB4338819-x64.psf" PsfTargetName="Windows10.0-KB4338819-x64_psf.rng" CiXPath="Windows10.0-KB4338819-x64-EXPRESS\Windows10.0-KB4338819-x64.psf.cix.xml"/>
+        </Package>
+    </Downloads>
+    <Plan>
+        <InstallFeature Id="CumulativeUpdate_KB4338819" Group="Microsoft"/>
+        <InstallFeature Id="ServicingStackUpdate_KB4343669" Group="Microsoft"/>
+    </Plan>
+    <Actions>
+        <InstallPackage Keyform="Package_for_KB4343669~~amd64~~17134.165.1.2" InstalledSize="0" StagedSize="0" PayloadType="Express" FilePath="Package_for_KB4343669~~amd64~~17134.165.1.2" ExpressPackagePath="metadata\Windows10.0-KB4343669-x64-EXPRESS" Reason="ServicingStackUpdate" FeatureId="ServicingStackUpdate_KB4343669" Partition="MainOS" BinaryPartition="false"/>
+        <InstallPackage Keyform="Package_for_RollupFix~~amd64~~17134.165.1.4" InstalledSize="0" StagedSize="0" PayloadType="Express" FilePath="Package_for_RollupFix~~amd64~~17134.165.1.4" ExpressPackagePath="metadata\Windows10.0-KB4338819-x64-EXPRESS" Reason="CumulativeUpdate" FeatureId="CumulativeUpdate_KB4338819" Partition="MainOS" BinaryPartition="false"/>
+    </Actions>
+</ActionList>

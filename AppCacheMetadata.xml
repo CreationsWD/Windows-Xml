@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppCacheMetadata>
+  <AppCacheManifest
+    MasterUrl="https://%DOMAIN%/AS/API/WindowsCortanaPane/V2/Init"
+    Url="https://%DOMAIN%/manifest/threshold.appcache"
+    Filename="1.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:6616&#xA;Cache-Control:private&#xA;Content-Type:text/cache-manifest; charset=utf-8&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/AS/API/WindowsCortanaPane/V2/Init"
+    Filename="2.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;X-UA-Compatible:IE=edge&#xA;X-XSS-Protection:0&#xA;Content-Length:56278&#xA;Cache-Control:private&#xA;Content-Type:text/html; charset=utf-8&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/BingCore.Bundle/cj,nj/563ac67c/e68b09c0.js?bu=rms+answers+Shared+BingCore%24ClientInstV2%24DuplicateXlsDefaultConfig%2cBingCore%24ClientInstV2%24SharedLocalStorageConfigDefault%2cBingCore%24shared%2cBingCore%24env.override%2cEmpty%2cBingCore%24event.custom.nodep%2cBingCore%24event.native%2cBingCore%24dom%2cBingCore%24cookies_parser%2cBingCore%24XHRPrefetch%24rmsajax_xhrprefetch%2cBingCore%24ClientInstV2%24LogUploadCapFeatureDisabled%2cBingCore%24ClientInstV2%24ClientInstConfigSeparateQFQueue%2cBingCore%24ClientInstV2%24clientinst_xls%2cBingCore%24CoreUtilities%2cBingCore%24ClientInstV2%24LogHelper%2cBingCore%24ClientInstV2%24VisibilityChangeEventHelper%2cBingCore%24Animation%2cBingCore%24fadeAnimation%2cBingCore%24framework%2cBingCore%24ShowWebView%2cBingCore%24ClientInstV2%24LogOfflineFalseConfig%2cEmpty%2cHitHighlighting%24HitHighlightingParser%2cBingCore%24ClientInstV2%24DataSourceLayoutManager%2cThreshold%24Threshold.Diagnostics.Prod%2cThreshold%24Threshold.UtilitiesM2"
+    Filename="3.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:49884&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:15:00 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/BlueBrand/ortl,cc,nc/c88e39f5/671552d8.css?bu=rms+answers+BrandBundle_Mobile+thbrand%24CombinedAsset_Windows_th_b%2cthbrand%24Colors_th_b%2cColors_AnsSupp_th_b%2cSegoeFontFaces%2cthbrand%24Type_th_b%2cthbrand%24Grid_th_b%2cempty%2cEmpty"
+    Filename="4.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:19962&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:text/css; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:30 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/BlueHeader/cir,ortl,cc,nc/a35ae5ad/f544a93b.css?bu=rms+answers+BrandBundle_Mobile+empty%2cthbrand%24Header_Colors_th_b%2cthbrand%24Header_Type%2cthbrand%24Header_Grid_th_b%2cHeader_Grid_InlineLogo%2cempty%2cempty%2cEmpty"
+    Filename="5.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:1426&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:text/css; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:11:35 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/ClientViews/cj,nj/e4bce3a6/aa4c1207.js?bu=rms+answers+AutoSuggest+W10%24Views%24ViewHelpers%2cW10%24Views%24DynamicHeightView%2cW10%24Views%24WSB%24PreviewPaneButton%2cW10%24Views%24WSB%24RemoveIcon%2cW10%24Views%24WSB%24WindowsDialogBox%2cW10%24Views%24WSB%24WindowsIndexingMessage%2cW10%24Views%24WSB%24WindowsMessage%2cW10%24Views%24WSB%24WindowsSearchScopesL2%2cW10%24Views%24WSB%24AdvancedOptions%2cW10%24Views%24WSB%24TopHitHeader%2cW10%24Views%24WSB%24WindowsTopResults%2cW10%24Views%24WSB%24WindowsSuggestionSingleLine%2cW10%24Views%24WSB%24WindowsSuggestionThreeLines%2cW10%24Views%24WSB%24WindowsGroup%2cW10%24Views%24WSB%24WindowsGroups%2cEmpty%2cW10%24Views%24HighlightedText%2cW10%24Views%24Icon%2cW10%24Views%24CortanaIcon%2cW10%24Views%24WSB%24WindowsContextMenu%2cW10%24Views%24WSB%24TabShellFooter"
+    Filename="6.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:34909&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:30 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/Framework/cj,nj/dba13425/ca2ffdc0.js?bu=rms+answers+BoxModel+config.threshold%2cempty%2ccore%2ccore%24viewport%2ccore%24layout%2ccore%24metrics%2cmodules%24mutation%2cmodules%24error%2cmodules%24network%2cmodules%24cursor%2cmodules%24keyboard%2cempty%2cmodules%24bot"
+    Filename="7.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:18642&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:53 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AriaTelemetry%20Libraries$aria-webjs-compact-sdk-1.2.0.min/cj,nj/92ab0027/0c3a2f0b.js"
+    Filename="8.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:17445&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:35 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AutoSuggest%20spyglass-illustration/ic/e0f6b852/02c7e14e.png"
+    Filename="9.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:6065&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:image/png&#xA;Last-Modified:Fri, 23 Feb 2018 01:11:48 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AutoSuggest%20W10$Aggregators$FallbackClassifier_PROD/cj,nj/cd174cf4/3e533cad.js"
+    Filename="10.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:45995&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:11:40 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AutoSuggest%20W10$Aggregators$FastRankModel_PROD/cj,nj/08745fcf/613fadbe.js"
+    Filename="11.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:137573&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:11:40 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AutoSuggest%20W10$Hosts$WSBHost/cj,nj/9333bdd1/eac3b5d9.js"
+    Filename="12.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:34977&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:47 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AutoSuggest%20W10$TopLevelDomains/cj,nj/324e4659/916eb510.js"
+    Filename="13.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:15942&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:11:40 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20AutoSuggest%20W10$ViewModels$WSBRootViewModel/cj,nj/2a63fb56/b28d6654.js"
+    Filename="14.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:39103&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:11:41 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20Feedback%20Form.Windows_wb/ortl,cc,nc/ddf6e3e3/e994e448.css"
+    Filename="15.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:6673&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:text/css; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:54 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20ServerSideRendering%20React$react.production16.1.1.min/nj/d9799f53/045d3532.js"
+    Filename="16.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:6584&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:21 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20ServerSideRendering%20React$react-dom.production16.1.1.min/nj/8fe7be63/8636b4dd.js"
+    Filename="17.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:94820&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:21 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20Threshold%20WinJS_XYFocus/cj,nj/7e516373/53c747e0.js"
+    Filename="18.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:121754&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:08 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20answers%20Web%20CoreStyles$CortanaMDLSymbols/ortl,cc,nc/c9d494a4/d5ac23a7.css"
+    Filename="19.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:53210&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:text/css; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:55 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20localizationstrings%20AutoSuggest%20CortanaQF/cj,nj/87a125b4/8590ff3b.js"
+    Filename="20.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:540393&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:00 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20localizationstrings%20AutoSuggest%20CortanaQFcloud/cj,nj/4c99f365/414427cf.js"
+    Filename="21.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:100526&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:00 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20localizationstrings%20AutoSuggest%20CortanaQFtabshell/cj,nj/0ab95818/0daa6e41.js"
+    Filename="22.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:24281&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:00 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/rms%20localizationstrings%20Feedback%20LocStrings/cj,nj/59a15d05/e48237f6.js"
+    Filename="23.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:132600&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:13:33 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/W10Bundle/cir,ortl,cc,nc/c7fd4f8e/fa6a1a4b.css?bu=rms+answers+AutoSuggest+Partners%24WSB%24SearchScopes_w%2cPartners%24WSB_w%2cPartners%24WSB%24BorderOnFocus_w%2cPartners%24WSB%24Extra4pxHomeBurger_w"
+    Filename="24.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:41206&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:text/css; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:12:30 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/W10CoreBundle/cj,nj/809810b2/de1b86b5.js?bu=rms+answers+AutoSuggest+Service%2cW10%24UrlUtils%2cW10%24Instrumentation%24InstrumentationCommon%2cW10%24Core%2cW10%24ViewModels%24WSBQueryParser%2cW10%24ViewModels%24WSBCommon%2cW10%24Instrumentation%24AppCacheInstrumentationHelper%2cW10%24Instrumentation%24WSBInstrumentationProvider%2cW10%24Instrumentation%24InstrumentationHelper%2cW10%24NavigationHelper%2cW10%24KeyboardEvtHandler%2cW10%24ViewModels%24SuggestionsRenderingManager%2cW10%24Aggregators%24FastRankCommon%2cW10%24Aggregators%24WSBRanking%2cW10%24AutoComplete%24WSBAutoComplete%2cW10%24Aggregators%24WSBAggregator%2cW10%24ViewModels%24BaseRootViewModel%2cW10%24Pages%24BasePage%2cW10%24Pages%24WSBPage%2cW10%24Caching%24SuperFreshAppCache%2cW10%24CortanaAppExtensions%2cW10%24ContextMenus%2cW10%24ViewModels%24TokenStore%2cW10%24ViewModels%24AccessTokenManager%2cW10%24AFDFootprint%2cWebTelemetry"
+    Filename="25.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:166055&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:29 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/W10DataProviders/cj,nj/6ec1ff99/72d99b01.js?bu=rms+answers+AutoSuggest+W10%24DataProviders%24SnRDataProvider%2cW10%24ClientSideStorage%24IndexedDbClientSideStorage%2cW10%24ClientSideStorage%24StorageBasedDataProvider%2cW10%24SuggestionsParsers%24MRUParser%2cW10%24Dataproviders%24MRUDataProvider%2cW10%24DataProviders%24IndexerQueryGenerator%2cW10%24DataProviders%24WSBLocalDataProvider%2cW10%24ViewModels%24HeaderFooterViewModel%2cW10%24SuggestionsParsers%24OnlineSuggestionsParser%2cW10%24SuggestionsParsers%24WSBSuggestionsParser%2cW10%24DataProviders%24ConstraintIndexDataLoader%2cW10%24DataProviders%24MyStuffOneDriveDataProvider%2cW10%24SuggestionsParsers%24MyStuffOneDriveParser%2cW10%24Caching%24WebSignalsCache%2cW10%24ViewModels%24WSBDialogBoxViewModel%2cW10%24ViewModels%24MiniSerpViewModel%2cW10%24ViewModels%24PreviewPane%2cW10%24ViewModels%24ProactiveSSO%2cW10%24DataProviders%24CortanaJsonDataProvider%2cW10%24DataProviders%24SubstrateDataProvider%2cW10%24SuggestionsParsers%24SubstrateSuggestionsParser%2cW10%24SuggestionsParsers%24SubstrateSearchParser"
+    Filename="26.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:187305&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:14:04 GMT&#xA;&#xA;" />
+  <AppCacheFile
+    Url="https://%DOMAIN%/rms/WindowsFeedbackBundle/cj,nj/8da15945/a282b3bf.js?bu=rms+answers+Feedback+Core%2cWindowsFeedbackFullProtocol%2cDOMCopyManipulator%24InlineImagesManipulator%2cDOMCopyManipulator%24DOMCopyManipulator%2cFeedbackFile%2cAccessibility%2cDebugCollector%2cWindowsFeedbackFormBase%2cWindowsFeedbackFormSDK%2cCortanaState"
+    Filename="27.txt"
+    ResponseHeaders="HTTP/1.1 200 OK&#xA;Vary:Accept-Encoding&#xA;Content-Length:31130&#xA;Cache-Control:public, max-age=15552000&#xA;Content-Type:application/x-javascript; charset=utf-8&#xA;Last-Modified:Fri, 23 Feb 2018 01:12:04 GMT&#xA;&#xA;" />
+</AppCacheMetadata>

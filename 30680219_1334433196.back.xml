@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Session version="8.0" id="30680219_1334433196" client="WindowsUpdateAgent" options="33555248" currentPhase="1" lastSuccessfulState="Installed" pendingFollower="true" retry="true" correlationVector="iMrLrXHpNUqMcJOu.0">
+    <Tasks>
+        <Phase seq="1">
+            <package id="Package_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" name="KB4338832" targetState="Installed" options="0"/>
+        </Phase>
+    </Tasks>
+    <Actions>
+        <Phase seq="1" rebootRequired="true">
+            <Resolve package="Package_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-3_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-4_neutral_PACKAGE"/>
+            <Resolve package="Package_1_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-1_neutral"/>
+            <Resolve package="Package_2_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-2_neutral"/>
+            <Stage package="Package_1_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-1_neutral"/>
+            <Stage package="Package_2_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-2_neutral"/>
+            <Install package="Package_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-3_neutral_PACKAGE"/>
+            <Install package="Package_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-4_neutral_PACKAGE"/>
+            <Install package="Package_1_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-1_neutral"/>
+            <Install package="Package_2_for_KB4338832~31bf3856ad364e35~amd64~~10.0.1.0" update="4338832-2_neutral"/>
+        </Phase>
+    </Actions>
+</Session>
